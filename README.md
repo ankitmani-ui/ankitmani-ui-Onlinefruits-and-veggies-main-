@@ -4,8 +4,7 @@
 Healthy food are those that provide you with the nutrients . you need to sustain your body well-being and retain energy . vitamins , proteins , carbohydrates , fat , minerals are the key nutrients that make up a healthy and balanced diet . In this websites products are listed with nutritional values like any other website like e - commerce we can click and order the product by seeing the nutritional values .
 
 ## Demo
-
-http://farmfresh.azurewebsites.net/
+http://healthyandnutritional.azurewebsites.net/
 ## Screenshots
 # Home page of the Project
 ![App Screenshot](https://user-images.githubusercontent.com/91620114/155885843-aca8ab0c-9ec8-4bf6-bdb5-23560dcb9735.png)
